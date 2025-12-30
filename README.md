@@ -1,5 +1,7 @@
 # 🩺 Med Supply API
 
+![Med Supply Platform Hero](medical-marketplace-api-project-image.png)
+
 ## 🚧 Status: Actively in Development
 
 Med Supply API is the backend service for a regulated medical supplies marketplace, handling product management, seller onboarding, carts, orders, and secure media handling.
