@@ -1,12 +1,12 @@
-🩺 Med Supply API
+# 🩺 Med Supply API
 
-🚧 Status: Actively in Development
+## 🚧 Status: Actively in Development
 
 Med Supply API is the backend service for a regulated medical supplies marketplace, handling product management, seller onboarding, carts, orders, and secure media handling.
 
 This project is currently ~50–60% complete and actively being built. Core APIs and architecture are in place, with additional features and refinements underway.
 
-🧩 Project Overview
+## 🧩 Project Overview
 
 The API powers a full-stack medical marketplace with support for:
 
@@ -22,7 +22,7 @@ Role-based access (admin / seller / customer)
 
 Built with a focus on scalability, clean architecture, and edge performance.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Runtime: Cloudflare Workers
 
@@ -38,8 +38,8 @@ Validation: Zod
 
 ORM / Queries: Drizzle / SQL
 
-✨ Features (Current & Planned)
-✅ Implemented / In Progress
+## ✨ Features (Current & Planned)
+### ✅ Implemented / In Progress
 
 Product & category APIs
 
@@ -51,7 +51,7 @@ Secure API routing
 
 Environment-based configuration
 
-🔜 Planned
+### 🔜 Planned
 
 Order lifecycle management
 
@@ -63,17 +63,17 @@ Analytics & reporting endpoints
 
 API rate limiting & security hardening
 
-📸 Screenshots
+## 📸 Screenshots
 
-🚧 Coming Soon
+### 🚧 Coming Soon
 Screenshots will be added once core flows are finalized.
 
-🎥 Demo Video
+## 🎥 Demo Video
 
-🚧 Coming Soon
+### 🚧 Coming Soon
 A walkthrough demo will be recorded after completing MVP features.
 
 🔗 Related Repository
 
 Frontend application:
-👉 med-supply-frontend (linked in profile / frontend repo)
+🔗 [Med Supply Frontend](https://github.com/asad2050/med-supply-frontend)
